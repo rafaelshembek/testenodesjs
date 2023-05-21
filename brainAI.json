@@ -1,4 +1,4 @@
-const brainAI = {
+{
     "Programador": {
         "nome": "Rafael",
         "idade": "30",
@@ -15,5 +15,3 @@ const brainAI = {
         "profição": "ela canta"
     }
 }
-
-module.export = brainAI;
