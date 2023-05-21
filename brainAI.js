@@ -1,0 +1,19 @@
+const brainAI = {
+    "Programador": {
+        "nome": "Rafael",
+        "idade": "30",
+        "Profição": "Programdor"
+    },
+    "matador": {
+        "nome": "João",
+        "idade": "34",
+        "profição": "mata gente"
+    },
+    "cantora": {
+        "nome": "angela",
+        "idade": "24",
+        "profição": "ela canta"
+    }
+}
+
+module.export = brainAI;
